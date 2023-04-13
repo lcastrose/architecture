@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T14:59:52.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.0.6" etag="Xl7NvRXVE7OrEp2J5rDu" type="github"><diagram name="Page-1" id="9q4Z_f13LMUJy6T588qd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-13T16:19:44.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3nVtMaT_oc4lMgw5dT1R" version="21.0.6" type="github">
+  <diagram name="Page-1" id="9q4Z_f13LMUJy6T588qd">
+    <mxGraphModel dx="1395" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-1" value="Stage 0:&lt;br&gt;Building the Foundation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-2" value="&lt;b&gt;Stage 1:&lt;/b&gt;&lt;br&gt;Normalization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-3" value="&lt;b&gt;Stage 2:&lt;/b&gt;&lt;br&gt;Standardization" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-4" value="&lt;b&gt;Stage 3:&lt;br&gt;&lt;/b&gt;Continuous Integration &lt;br&gt;&amp;amp; &lt;br&gt;Continuous Testing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-5" value="&lt;b&gt;Stage 4:&lt;/b&gt;&lt;br&gt;Infrastructure as Code &lt;br&gt;&amp;amp; &lt;br&gt;Continuous Delivery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-6" value="&lt;b&gt;Stage 5:&lt;br&gt;&lt;/b&gt;Automated Security &lt;br&gt;&amp;amp; &lt;br&gt;Compliance as Code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="NCqJh8Y2cxOwQoocKfH9-7" value="&lt;b&gt;Stage 6:&lt;br&gt;&lt;/b&gt;Automated Compliance Reporting &lt;br&gt;&amp;amp;&lt;br&gt;Vulnerability Remediation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="690" y="180" width="120" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
