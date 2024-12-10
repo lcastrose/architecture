@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Current Architecture" id="MRtzzXNwsHmBVyryb6eQ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2107" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-8" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="474" width="730" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=none;fillColor=#B266FF;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="421.33" y="-388.52" width="27.05" height="727.97" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgMRVaHnvhg0y0FyFOAp-10">
@@ -36,7 +36,7 @@
             <mxPoint x="31.5" y="245.01588141874026" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency - Business Continuity" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=none;fillColor=#B266FF;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency - Business Continuity" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="421.35" y="-330.32" width="27.08" height="727.75" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="VM Series" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=1;fillColor=#33FF33;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-22" value="Datalake - Cortex/Strata/Prisma" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="70" y="347" width="730" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-25" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=none;fillColor=#B266FF;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-25" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="422.3" y="-359.74" width="25.47" height="729" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-26" value="&lt;font&gt;&lt;b&gt;BanColombia Corporate Vision&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#B266FF;" vertex="1" parent="1">
