@@ -7,13 +7,13 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Platformization Strategy&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#FF3333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="50" width="730" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-2" value="Prisma Cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#99CCFF;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-2" value="Prisma Cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#00CCCC;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="114" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-3" value="Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#66FF66;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-3" value="Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#00CC00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="114" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#FFFF66;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#CCCC00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CoPilot, AI-SPM,AI Access, AI Runtime&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
