@@ -22,11 +22,11 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-6" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Identity&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CIEM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
           <mxGeometry x="70" y="675" width="730" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CSPM, DSPM, AI-SPM&lt;/li&gt;&lt;li&gt;Automation - IaC - Policy as Code&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="70" y="759" width="730" height="112" as="geometry" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CSPM, DSPM, AI-SPM&lt;/li&gt;&lt;li&gt;Automation - IaC - Policy as Code&lt;/li&gt;&lt;li&gt;Action Plans&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="759" width="730" height="131" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-8" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AIOps&lt;/li&gt;&lt;li&gt;Adoption Advisor&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="875" width="730" height="125" as="geometry" />
+          <mxGeometry x="70" y="900" width="730" height="125" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="1">
           <mxGeometry x="803.5" y="114" width="30" height="424" as="geometry" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-32" value="XSIAM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="287" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-34" value="IaC Scanning" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="387" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
