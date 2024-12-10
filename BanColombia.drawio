@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-3" value="Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#66FF66;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="114" width="230" height="70" as="geometry" />
+          <mxGeometry x="325" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#FFFF66;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="114" width="230" height="70" as="geometry" />
@@ -29,13 +29,13 @@
           <mxGeometry x="80" y="690" width="720" height="125" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="810" y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="804" y="50" width="30" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-10" value="Automation &amp;amp; Integrations" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="30" height="490" as="geometry" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-10" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="35" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="843" y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="838" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="Hybrid Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="189" width="230" height="35" as="geometry" />
@@ -47,7 +47,10 @@
           <mxGeometry x="70" y="189" width="480" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-15" value="Policy As Code" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="1" y="50" width="30" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-16" value="Automation" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="50" width="30" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
