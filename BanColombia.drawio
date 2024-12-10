@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="MRtzzXNwsHmBVyryb6eQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1476" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Platformization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="50" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-2" value="Prisma Cloud" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-3" value="Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="120" width="230" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
