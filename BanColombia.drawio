@@ -37,20 +37,35 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="838" y="50" width="30" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="Hybrid Architecture" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="570" y="189" width="230" height="35" as="geometry" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="VM Series" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#3333FF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="570" y="221" width="230" height="29" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-13" value="Strata Cloud Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="570" y="230" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="187.5" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-14" value="Code to Cloud to SOC - CDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="70" y="189" width="480" height="35" as="geometry" />
+          <mxGeometry x="70" y="221" width="480" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-15" value="Policy As Code" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-16" value="Automation" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-34" y="50" width="30" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-17" value="Data Center" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="254" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-18" value="Enterprise Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="570" y="288" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-19" value="Runtime Protection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="187.5" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-20" value="Shift Left" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="259" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-21" value="X-SPM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="70" y="292" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
