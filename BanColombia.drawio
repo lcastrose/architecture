@@ -35,7 +35,7 @@
           <mxGeometry x="35.5" y="114" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="1">
-          <mxGeometry x="837.5" y="114" width="30" height="490" as="geometry" />
+          <mxGeometry x="871.5" y="114" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="VM Series" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#000000;strokeWidth=1;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="570" y="221" width="230" height="29" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="70" y="544" width="730" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-25" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="1">
-          <mxGeometry x="873.5" y="114" width="30" height="490" as="geometry" />
+          <mxGeometry x="837.5" y="114" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-26" value="&lt;font&gt;&lt;b&gt;Corporate Vision&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=#B266FF;" vertex="1" parent="1">
           <mxGeometry x="803.5" y="50" width="106" height="60" as="geometry" />
