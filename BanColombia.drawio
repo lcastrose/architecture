@@ -31,7 +31,7 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="804" y="50" width="30" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-10" value="Integrations" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-10" value="Advanced Integrations" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="35" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-24" value="Datalake - BanColombia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="70" y="544" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-25" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="874" y="50" width="30" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
