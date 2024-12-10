@@ -32,7 +32,7 @@
           <mxGeometry x="804" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-10" value="Advanced Integrations" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="35" y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="36" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="838" y="50" width="30" height="490" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="70" y="221" width="480" height="35" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-15" value="Policy As Code" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="-33" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-16" value="Automation" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry y="50" width="30" height="490" as="geometry" />
+          <mxGeometry x="2" y="50" width="30" height="490" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-17" value="Data Center" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="570" y="254" width="230" height="30" as="geometry" />
