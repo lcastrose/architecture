@@ -16,17 +16,17 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#FFFF66;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="114" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CoPilot&lt;/li&gt;&lt;li&gt;AI-SPM&lt;/li&gt;&lt;li&gt;AI Access&lt;/li&gt;&lt;li&gt;AI Runtime&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="65" y="610" width="720" height="130" as="geometry" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CoPilot, AI-SPM,AI Access, AI Runtime&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="580" width="730" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-6" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Identity&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CIEM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="65" y="750" width="720" height="80" as="geometry" />
+          <mxGeometry x="70" y="680" width="730" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="65" y="850" width="720" height="30" as="geometry" />
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CSPM, DSPM, AI-SPM&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="70" y="778" width="730" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-8" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AIOps&lt;/li&gt;&lt;li&gt;Adoption Advisor&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="65" y="900" width="720" height="125" as="geometry" />
+          <mxGeometry x="70" y="880" width="730" height="125" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="804" y="50" width="30" height="490" as="geometry" />
