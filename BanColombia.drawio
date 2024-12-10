@@ -107,14 +107,14 @@
         <mxCell id="ntNV6hNqddE53JYrnjUS-6" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CoPilot, AI-SPM,AI Access, AI Runtime&lt;/li&gt;&lt;li&gt;XSIAM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="70" y="553" width="730" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="ntNV6hNqddE53JYrnjUS-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Identity&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CIEM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
-          <mxGeometry x="70" y="653" width="730" height="80" as="geometry" />
+        <mxCell id="ntNV6hNqddE53JYrnjUS-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Identity&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;ITDR&lt;/li&gt;&lt;li&gt;UEBA&lt;/li&gt;&lt;li&gt;CIEM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="70" y="654" width="730" height="126" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-8" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CSPM, DSPM, AI-SPM&lt;/li&gt;&lt;li&gt;Automation - IaC - Policy as Code&lt;/li&gt;&lt;li&gt;Action Plans&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
-          <mxGeometry x="70" y="736" width="730" height="124" as="geometry" />
+          <mxGeometry x="70" y="783" width="730" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="ntNV6hNqddE53JYrnjUS-9" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AIOps - Strata&lt;/li&gt;&lt;li&gt;Adoption Advisor - Prisma Cloud&lt;/li&gt;&lt;li&gt;Agent Management Dashboard - Cortex&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
-          <mxGeometry x="71" y="863" width="730" height="125" as="geometry" />
+        <mxCell id="ntNV6hNqddE53JYrnjUS-9" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AIOps - Strata&lt;/li&gt;&lt;li&gt;Adoption Advisor - Prisma Cloud&lt;/li&gt;&lt;li&gt;Agent Management Dashboard - Cortex&lt;/li&gt;&lt;li&gt;XSIAM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="71" y="910" width="730" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-10" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="422.95" y="-381.9" width="23.82" height="727.97" as="geometry" />
@@ -197,11 +197,11 @@
         <mxCell id="ntNV6hNqddE53JYrnjUS-36" value="AI Access" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="570" y="320" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SxiqnkxChDvt2G-3GMcr-0" value="Available" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
-          <mxGeometry x="820" y="479" width="150" height="30" as="geometry" />
+        <mxCell id="SxiqnkxChDvt2G-3GMcr-0" value="Existing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="810" y="486" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SxiqnkxChDvt2G-3GMcr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
-          <mxGeometry x="820" y="514" width="150" height="30" as="geometry" />
+        <mxCell id="SxiqnkxChDvt2G-3GMcr-1" value="Available" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="810" y="519" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SxiqnkxChDvt2G-3GMcr-2" value="Adoption" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="-35" y="114" width="30" height="432" as="geometry" />
@@ -214,6 +214,21 @@
         </mxCell>
         <mxCell id="8LikLmk9K4z_FYKMKwlK-0" value="&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="-140" y="114" width="30" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="9LP6aHmr_KfzMl9OomPr-0" value="ASM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="320" y="287" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LP6aHmr_KfzMl9OomPr-1" value="SOAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="320" y="320" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LP6aHmr_KfzMl9OomPr-2" value="XDR &amp;amp; ITDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="321" y="352" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LP6aHmr_KfzMl9OomPr-3" value="Log Mgmt &amp;amp; Correlation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="320.86" y="384" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LP6aHmr_KfzMl9OomPr-4" value="TIM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
+          <mxGeometry x="320.86" y="416" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
