@@ -11,22 +11,22 @@
           <mxGeometry x="70" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-3" value="Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#66FF66;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="325" y="114" width="230" height="70" as="geometry" />
+          <mxGeometry x="320" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-4" value="Strata" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;gradientColor=#FFFF66;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="570" y="114" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-5" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CoPilot&lt;/li&gt;&lt;li&gt;AI-SPM&lt;/li&gt;&lt;li&gt;AI Access&lt;/li&gt;&lt;li&gt;AI Runtime&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="720" height="130" as="geometry" />
+          <mxGeometry x="65" y="610" width="720" height="130" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-6" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Identity&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;CIEM&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="540" width="720" height="80" as="geometry" />
+          <mxGeometry x="65" y="750" width="720" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-7" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Posture &amp;amp; Policy Management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="80" y="640" width="720" height="30" as="geometry" />
+          <mxGeometry x="65" y="850" width="720" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-8" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Observability&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;AIOps&lt;/li&gt;&lt;li&gt;Adoption Advisor&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="80" y="690" width="720" height="125" as="geometry" />
+          <mxGeometry x="65" y="900" width="720" height="125" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-9" value="Operational Excelence" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="804" y="50" width="30" height="490" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-11" value="Resiliency" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="838" y="50" width="30" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="VM Series" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#3333FF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-12" value="VM Series" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#3333FF;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="221" width="230" height="29" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-13" value="Strata Cloud Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -52,13 +52,13 @@
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-16" value="Automation" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-34" y="50" width="30" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-17" value="Data Center" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-17" value="Data Center" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="570" y="254" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-18" value="Enterprise Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="288" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jgMRVaHnvhg0y0FyFOAp-19" value="Runtime Protection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=3;strokeColor=#3333FF;" vertex="1" parent="1">
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-19" value="Runtime Protection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;strokeColor=#3333FF;" vertex="1" parent="1">
           <mxGeometry x="70" y="187.5" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-20" value="Shift Left" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
@@ -66,6 +66,12 @@
         </mxCell>
         <mxCell id="jgMRVaHnvhg0y0FyFOAp-21" value="X-SPM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="292" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-22" value="Datalake - Cortex" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="730" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jgMRVaHnvhg0y0FyFOAp-23" value="IoT/OT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="322" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
