@@ -138,7 +138,7 @@
           <mxGeometry x="570" y="221" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-20" value="Enterprise Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="570" y="387" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="388" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-21" value="Runtime Protection - Shield Right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
           <mxGeometry x="70" y="187.5" width="480" height="30" as="geometry" />
@@ -153,7 +153,7 @@
           <mxGeometry x="70" y="519" width="730" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-25" value="IoT/OT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="570" y="354" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="355" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-26" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
           <mxGeometry x="424.53" y="-357.5" width="21" height="729" as="geometry" />
@@ -186,7 +186,7 @@
           <mxGeometry x="570" y="287" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ntNV6hNqddE53JYrnjUS-36" value="AI Access" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="570" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="321" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SxiqnkxChDvt2G-3GMcr-0" value="Existing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
           <mxGeometry x="810" y="486" width="150" height="30" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="-105" y="114" width="30" height="432" as="geometry" />
         </mxCell>
         <mxCell id="pK4Dh9_jivIwaIjsnKXa-1" value="SASE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="571" y="419" width="230" height="30" as="geometry" />
+          <mxGeometry x="571" y="421" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8LikLmk9K4z_FYKMKwlK-0" value="API Managment" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
           <mxGeometry x="-140" y="114" width="30" height="432" as="geometry" />
@@ -210,16 +210,16 @@
           <mxGeometry x="320" y="287" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9LP6aHmr_KfzMl9OomPr-1" value="SOAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="320" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="320" y="321" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9LP6aHmr_KfzMl9OomPr-2" value="XDR &amp;amp; ITDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="321" y="352" width="230" height="30" as="geometry" />
+          <mxGeometry x="321" y="355" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9LP6aHmr_KfzMl9OomPr-3" value="Log Mgmt &amp;amp; Correlation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="320.86" y="384" width="230" height="30" as="geometry" />
+          <mxGeometry x="320.86" y="388" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9LP6aHmr_KfzMl9OomPr-4" value="TIM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" parent="ntNV6hNqddE53JYrnjUS-1" vertex="1">
-          <mxGeometry x="320.86" y="416" width="230" height="30" as="geometry" />
+          <mxGeometry x="320.86" y="421" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D_ukvXXf2_D1oSEVO3El-0" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;AI &amp;amp; Monitoring&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="ntNV6hNqddE53JYrnjUS-1">
           <mxGeometry x="70" y="551" width="730" height="29" as="geometry" />
@@ -284,7 +284,7 @@
           <mxGeometry x="570" y="188" width="230" height="29" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-15" value="Strata Cloud Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="570" y="254" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="255" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-16" value="Code to Cloud to SOC - CDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#33FF33;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
           <mxGeometry x="70" y="221" width="480" height="29" as="geometry" />
@@ -299,7 +299,7 @@
           <mxGeometry x="570" y="221" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-20" value="Enterprise Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="570" y="387" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="389" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-21" value="Runtime Protection - Shield Right" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
           <mxGeometry x="70" y="187.5" width="480" height="30" as="geometry" />
@@ -314,7 +314,7 @@
           <mxGeometry x="70" y="519" width="730" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-25" value="IoT/OT" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="570" y="354" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="356" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-26" value="Secure Cloud Platforms" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;fillColor=default;gradientDirection=radial;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
           <mxGeometry x="424.53" y="-357.5" width="21" height="729" as="geometry" />
@@ -344,10 +344,10 @@
           <mxGeometry x="70" y="387" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-35" value="AI Runtime Security" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="570" y="287" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="289" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-36" value="AI Access" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="570" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="570" y="322" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-37" value="Existing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=1;strokeColor=#000000;fillColor=#33FF33;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
           <mxGeometry x="810" y="486" width="150" height="30" as="geometry" />
@@ -362,7 +362,7 @@
           <mxGeometry x="-105" y="114" width="30" height="432" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-41" value="SASE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="571" y="419" width="230" height="30" as="geometry" />
+          <mxGeometry x="571" y="421" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-42" value="&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-180;flipV=1;flipH=1;textDirection=vertical-lr;fontSize=18;gradientColor=#B266FF;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
           <mxGeometry x="-140" y="114" width="30" height="432" as="geometry" />
@@ -371,16 +371,16 @@
           <mxGeometry x="320" y="287" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-44" value="SOAR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="320" y="320" width="230" height="30" as="geometry" />
+          <mxGeometry x="320" y="321" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-45" value="XDR &amp;amp; ITDR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="321" y="352" width="230" height="30" as="geometry" />
+          <mxGeometry x="321" y="355" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-46" value="Log Mgmt &amp;amp; Correlation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="320.86" y="384" width="230" height="30" as="geometry" />
+          <mxGeometry x="320.86" y="389" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDqWFJq9JSNCd0ePr7_P-47" value="TIM" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#FFFFCC;" vertex="1" parent="PDqWFJq9JSNCd0ePr7_P-1">
-          <mxGeometry x="320.86" y="416" width="230" height="30" as="geometry" />
+          <mxGeometry x="320.86" y="421" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
