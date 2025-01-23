@@ -82,8 +82,8 @@
         <mxCell id="qJypHuBIZEy-QdpRI4N3-29" value="5.03 mts" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="412.86" y="445" width="185.87" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qJypHuBIZEy-QdpRI4N3-31" value="Apto Planta Baja = 28,15 mt2&lt;div&gt;Apto Planta Alta = 23,98 mt2&lt;/div&gt;&lt;div&gt;Terraza Planta Alta = 11,77 mt2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="180" height="30" as="geometry" />
+        <mxCell id="qJypHuBIZEy-QdpRI4N3-31" value="Apto Planta Baja = 28,15 mt2&lt;div&gt;Apto Planta Alta = 23,98 mt2&lt;/div&gt;&lt;div&gt;Terraza Planta Alta = 11,77 mt2&lt;/div&gt;&lt;div&gt;Area Total Construccion = 52.13 mt2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="140" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qJypHuBIZEy-QdpRI4N3-32" value="Contenedor 40 pies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="610" y="40" width="120" height="20" as="geometry" />
